@@ -10,7 +10,7 @@ This is a simple CRUD operation in MySQL database using Prisma
 ## Feature
 
 - Rest API
-- Fully functioning CRUD operation
+- Fully functional CRUD operation
 
 ## Lacking
 
